@@ -29,6 +29,7 @@ applications. In particular, the design supports:
    old_stream
    json_program
    changelog
+   release_notes
 
 Indices and tables
 ==================
