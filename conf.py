@@ -6,7 +6,7 @@ with open(os.path.join("./conf_common.py")) as infile:
 project = "json"
 docname = project + u'doc'
 title = project + ' Documentation'
-version = "0.2.6-dev0"
+version = ""
 
 assert version is not None
 release = version
