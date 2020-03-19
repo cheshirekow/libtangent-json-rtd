@@ -7,8 +7,9 @@ v0.2.6 -- in-progress
 
 * Implement travis build
 * Implement pseudo-release-tag -> readthedocs build pipeline
+* Remove monorepo dependencies from the sparse export
 
-Closes: adfd69d, c3f0854
+Closes: adfd69d, c3f0854, 296d380
 
 v0.2.5
 ======
